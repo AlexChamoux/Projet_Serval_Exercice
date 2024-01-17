@@ -1,0 +1,40 @@
+Image,Phrase
+Sans chapeau,
+01-0,"Bienvenue dans la cuisine ! 
+C’est parti pour La Chasse au fromage ! "
+01-90,Oh non la porte est trop lourde pour l’ouvrir
+01-180,"Ah non, ce n’est pas l’heure du bain, c’est l’heure de manger !"
+01-270,"Paris, sa tour Eiffel est IMMENSE !!"
+10-0,"Mmmmh, il n’y a rien par ici"
+10-90,"Ah ! Voilà le fromage !  
+Attends moi mon petit camembert je suis bientôt là ! "
+10-180,"Mmmmh, il n’y a rien par ici"
+10-270,Appuie sur la touche X pour récupérer le chapeau
+11-0,Il y a tout ce qu’il faut pour faire un bon gâteau mais ça manque de fromage…
+11-90,"Je ne suis pas loin du fromage, encore un pas et ça sera bon !"
+11-180,
+11-270,Oh le joli chapeau ! 
+12-0,"Mmmmh, il n’y a rien par ici"
+12-90,"Enfin te voilà ! A table !!!
+(Appuie sur la touche X pour manger le fromage -> écran de fin ? )"
+12-180,"Mmmmh, il n’y a rien par ici"
+12-270,Ca a la même couleur que le fromage mais ça n’a pas le même goût…
+Avec chapeau,
+01-0,
+01-90,Oh non la porte est trop lourde pour l’ouvrir
+01-180,"Ah non, ce n’est pas l’heure du bain, c’est l’heure de manger !"
+01-270,"Paris, sa tour Eiffel est IMMENSE !!"
+10-0,"Mmmmh, il n’y a rien par ici"
+10-90,"Ah ! Voilà le fromage !  
+Attends moi mon petit camembert je suis bientôt là ! "
+10-180,"Mmmmh, il n’y a rien par ici"
+10-270,Hop ! Me voilà un vrai chef de cuisine
+11-0,Il y a tout ce qu’il faut pour faire un bon gâteau mais ça manque de fromage…
+11-90,"Je ne suis pas loin du fromage, encore un pas et ça sera bon !"
+11-180,
+11-270,
+12-0,"Mmmmh, il n’y a rien par ici"
+12-90,"Enfin te voilà ! A table !!!
+(Appuie sur la touche X pour manger le fromage -> écran de fin ? )"
+12-180,"Mmmmh, il n’y a rien par ici"
+12-270,Ca a la même couleur que le fromage mais ça n’a pas le même goût…

@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    margin-top: 5vh;
+    margin-left: 20vw;
+}
+
+.image{
+    width: 60%;
+}
+
+.btn-comp-text{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    background-image: url('./assets/941723.jpg');
+    background-size: 125%;
+    background-position:center;
+}
+
+#button-block-and-compass{
+    width: 30%;
+}
+
+button[disabled] {
+    opacity: 0.5; 
+    pointer-events: none;
+}
+
+form{
+    margin-top: 2vh;
+    margin-left: 0.5vw;
+    background-color: blue;
+    border-radius: 25px;
+    padding: 1vw;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 1vw;
+
+}
+
+.grid-item {
+    width: 100%;
+    text-align: center;
+}
+
+button{
+    width: 100%;
+}
+
+.compass{
+    width: 10vw;
+    margin-left: 1.8vw;
+}
+
+#compass-inventory{
+    display: flex;
+    flex-direction: row;
+}
+
+.inventory{
+    margin-top: 12vh;
+    width: 3vw;
+    height: 4vw;
+    
+}
+
+#text{
+    display: grid;
+    place-items: center;
+    width: 70%;
+    color:white;
+    font-weight: 900;    
+}
